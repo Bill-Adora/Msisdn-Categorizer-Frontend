@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+KR:100,300,400,500,700,900&display=swap');
+
+html,
+
+body {
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 0.9rem;
+}
+
+.navbar {
+    background-color: #ffffff;
+    width: 100%;
+}
+
+.pagination-container {
+    margin-left: 400px;
+}
+
+.dropdown-className {
+    display: -ms-flexbox; /* IE10 */
+    display: flex;
+    width: 100%;
+}
+
+.navbar-brand {
+    font-weight: bolder;
+}
+
+.headerText {
+    font-weight: bolder;
+}
